@@ -1,7 +1,7 @@
 {
-  "name": "Telegram One 4u Bot",
+  "name": "Telegram One4uBot",
   "description": "[One4uBot] A modular Telegram userbot running on Python 3.8+ with an sqlalchemy database.",
-  "logo": "https://i.ibb.co/CzXcJ0S/photo-2020-01-28-23-32-03.jpg",
+  "logo": "https://i.ibb.co/103nDSk/15171.jpg",
   "keywords": [
     "telegram",
     "userbot",

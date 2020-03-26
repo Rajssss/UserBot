@@ -1,5 +1,7 @@
 [![Build](https://github.com/NoCrypt/UserBot/workflows/FailedChecker/badge.svg?branch=sql-extended)](https://github.com/NoCrypt/UserBot/actions "Build")
-<h1 align="center">Project One4uBot by <a herf="http://t.me/MoveAngel">@MoveAngel</a> (Huge thanks to him/her)</h1>
+<h1 align="center">Project One4uBot</h1>
+<h3 align="center"> This repo is forked from <a href="http://t.me/MoveAngel">@MoveAngel</a> (Huge thanks to him/her)</h3>
+<p/>
 <h3 align="center">A modular Telegram userbot running on Python 3.8+ with an sqlalchemy database.</h3>
 <h4 align="center">Based on RaphielGang's <a href="https://github.com/RaphielGang/Telegram-UserBot">Paperplane</a> Telegram userbot...</h4>
 <h4 align="center">...or rather, it's Paperplane + insane extras from the community.</h4>
