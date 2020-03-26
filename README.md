@@ -10,7 +10,7 @@
 <h2 align="center">How To Host</h2>
 <h5 align="center">The easiest way to deploy this great bot! is click on this ADORABLE MIKU! </h5>
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/NoCrypt/UserBot/tree/sql-extended"> <img src="https://i.ibb.co/103nDSk/15171.jpg" alt="Deploy to Heroku" /></a></p>
-<p >[Do you know that 39 means "Mi" taken from katakana char and "Kyuu(ku)" from "nine" translation]</p>
+<h5 align="center"><i>Do you know that 39 means "Mi" taken from katakana char and "Kyuu(ku)" from "nine" translation<i/></h5>
 <p align="center">&nbsp;</p>
 <h2 align="center">Credits</h2>
 <p align="center">Huge thanks to <a href="https://github.com/NoCrypt/UserBot/graphs/contributors">everyone</a> who have helped make this userbot awesome!!</p>
